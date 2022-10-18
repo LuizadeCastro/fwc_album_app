@@ -1,2 +1,2 @@
 # FWC_Album_App
-Aplicativo Fifa World Cup - Gerenciador de Figurinhas do Álbum da Copa 
+Projeto de aplicativo Fifa World Cup - Gerenciador de Figurinhas do Álbum da Copa 
