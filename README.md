@@ -1,10 +1,8 @@
 # Fifa World Cup Flutter Project
 
-Aplicativo de gerenciamento de albuns de figurinhas da copa do Qatar 2022.
+Aplicativo de gerenciamento de figurinhas do Album Copa Qatar 2022.
 8a Edição do Dart Week com Rodrigo Rahman
 
-* MVP
-* API
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/89109185/196235158-ba192387-745b-475a-abbb-dac4a84916ba.png" width="300px" />
